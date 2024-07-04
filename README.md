@@ -1,18 +1,8 @@
-## Getting Started
+## Sistema de Leitura de 2 Arquivos Simultâneos
+Esse projeto é uma aplicação simples em Java que lê dois arquivos de texto de forma paralela, através da classe SwingWorker
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Para testar o código
+ - Mude a variável *filepath* para o seu diretório dos arquivos a serem lidos **(ARQ1 e ARQ2);**
+ - Compile o código;
+ - Defina o tempo simulado da leitura em seus respectivos capos;
+ - Aproveite!😁
