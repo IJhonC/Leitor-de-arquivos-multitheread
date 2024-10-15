@@ -4,5 +4,5 @@ Esse projeto é uma aplicação simples em Java que lê dois arquivos de texto d
 ### Para testar o código:
  - Mude a variável *filepath* para o seu diretório dos arquivos a serem lidos **(ARQ1 e ARQ2);**
  - Compile o código;
- - Defina o tempo simulado da leitura em seus respectivos capos;
+ - Defina o tempo simulado da leitura em seus respectivos campos;
  - Aproveite!😁
